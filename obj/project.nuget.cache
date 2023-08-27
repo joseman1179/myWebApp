@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CUzFKF8ZC//Ig5hK1yonmKUsUruHTkfWUcCvoHE2qSwMuwgb5jOctMoQnWMuHW070i8jrooh7bp/sxRs4xsUpQ==",
+  "dgSpecHash": "R++UxDpIm0wS9yxVhqjTAPYf6gm7iVRfVVMrziJrVNUArxbiABXhmRYczJauSFlTTQjAS5FboKAeXe914LWvmg==",
   "success": true,
-  "projectFilePath": "C:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj",
+  "projectFilePath": "c:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
