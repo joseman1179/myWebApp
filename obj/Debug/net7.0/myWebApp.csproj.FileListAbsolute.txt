@@ -6,7 +6,6 @@ C:\Software\Azure\DevOps\GIT\Exercise1_DevOps\myWebApp\bin\Debug\net7.0\myWebApp
 C:\Software\Azure\DevOps\GIT\Exercise1_DevOps\myWebApp\bin\Debug\net7.0\myWebApp.runtimeconfig.json
 C:\Software\Azure\DevOps\GIT\Exercise1_DevOps\myWebApp\bin\Debug\net7.0\myWebApp.dll
 C:\Software\Azure\DevOps\GIT\Exercise1_DevOps\myWebApp\bin\Debug\net7.0\myWebApp.pdb
-C:\Software\Azure\DevOps\GIT\Exercise1_DevOps\myWebApp\obj\Debug\net7.0\myWebApp.csproj.AssemblyReference.cache
 C:\Software\Azure\DevOps\GIT\Exercise1_DevOps\myWebApp\obj\Debug\net7.0\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Software\Azure\DevOps\GIT\Exercise1_DevOps\myWebApp\obj\Debug\net7.0\myWebApp.AssemblyInfoInputs.cache
 C:\Software\Azure\DevOps\GIT\Exercise1_DevOps\myWebApp\obj\Debug\net7.0\myWebApp.AssemblyInfo.cs

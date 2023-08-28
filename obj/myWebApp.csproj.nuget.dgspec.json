@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj": {}
+    "C:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj": {}
   },
   "projects": {
-    "c:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj": {
+    "C:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj",
+        "projectUniqueName": "C:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "c:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj",
+        "projectPath": "C:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\myWebApp.csproj",
         "packagesPath": "C:\\Users\\tomca\\.nuget\\packages\\",
-        "outputPath": "c:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\obj\\",
+        "outputPath": "C:\\Software\\Azure\\DevOps\\GIT\\Exercise1_DevOps\\myWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tomca\\AppData\\Roaming\\NuGet\\NuGet.Config",
